@@ -1,2 +1,4 @@
 # Deep-Learning
-The repository about computer vision and deep learning
+The repository is to store code about CV deep learning.
+
+All code is for practice!
